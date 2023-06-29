@@ -1,0 +1,10 @@
+body{
+    background: radial-gradient(rgb(206, 253, 105),rgb(111, 203, 243),rgb(243, 103, 227));
+}
+
+.heading{
+    width: 100%;
+    margin-top: 0;
+    font-size:28px;
+    font-family:cursive;
+}

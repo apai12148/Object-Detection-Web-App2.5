@@ -1,0 +1,9 @@
+body{
+    background: radial-gradient(rgb(253, 105, 169),rgb(243, 111, 234),rgb(208, 103, 243));
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px
+}
